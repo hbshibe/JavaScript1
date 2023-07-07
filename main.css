@@ -1,0 +1,15 @@
+.container{
+    font-size: 28px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+button{
+    padding: 10px;
+    font-weight: 700;
+}
+
+#timer{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
